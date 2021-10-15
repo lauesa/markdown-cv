@@ -1,91 +1,52 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Scott Laue's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
+# Scott Laue
+<a href="laue.scott@gmail.com">laue.scott@gmail.com</a> - (817) 805-3796
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+  <a href="https://davewhipp.github.io"> scottlaue.com</a> - 
+  <a href="https://github.com/lauesa"> lauesa</a> - 
+	<a href="https://www.linkedin.com/in/scott-laue/">linkedin.com/in/scott-laue</a>
 </div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`2014-2018`
+**BSCSE, Computer Engineering**, *University of Texas at Arlington*, Arlington, TX, USA.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Experience
 
-- Sizar
+`2020-2021`
+**R&D Software Engineer II**, *Bastian Solutions, Toyota Advanced Logistics, Mobile Robotics*, Dallas, TX.
 
-`1667 - death`
-__Trinity College, Cambridge__
+`2018-2020`
+**R&D Software Engineer I**, *Bastian Solutions, Toyota Advanced Logistics, Mobile Robotics*, Dallas, TX.
 
-- Fellow
+`2017-2018`
+**Research Assistant**, *Department of Computer Science, University of Helsinki*, Helsinki, Finland.
 
+## Awards and honors
 
+`2020`
+**Teacher of the Year**, *Vasara Ry (Geology student organization), University of Helsinki*, Finland.
 
-## Awards
+### Organization
 
-`2012`
-President, *Royal Society*, London, UK
+`2018`
+**President**, *Association for Computing Machinery, Local Chapter*, Arlington, TX.
 
-Associate, *French Academy of Science*, Paris, France
+`2017`
+**Vice-President**, *Association for Computing Machinery, Local Chapter*, Arlington, TX.
 
+## Professional training
 
+`2020`
+**Learning in Higher Education (UP1)**, *Centre for University Teaching and Learning, University of Helsinki*, Helsinki, Finland.<br/>
+Five credit introductory course for university pedagogy.
 
-## Publications
+## Memberships
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
-
+`2016-present`
+Association for Computing Machinery
 
